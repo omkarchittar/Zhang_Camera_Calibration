@@ -1,3 +1,7 @@
+# Zhang's Camera Calibration
+![image1](outputs/page1.jpg)
+![image2](outputs/page2.jpg)
+
 ## **Installation and Running**
 
 1. Download and extract the files.
